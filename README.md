@@ -29,7 +29,7 @@ Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştiril
 
 - ✅ Satılık villaların listelenmesi  
 - ✅ Detaylı villa sayfası (resim, fiyat, özellikler)  
-- ✅ EF Core ile **SQL tabanlı veri yönetimi**  
+- ✅ EF Core ile **MongoDb tabanlı veri yönetimi**  
 - ✅ MongoDB ile **loglama ve kullanıcı aktiviteleri**  
 - ✅ Admin panel üzerinden CRUD işlemleri  
 - ✅ Kullanıcı kayıt/giriş sistemi  
