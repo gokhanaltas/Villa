@@ -1,4 +1,4 @@
-# 🏡 Real Estate - Villa Satış Projesi  
+# 🏡Premium - Villa Satış Projesi  
 
  <img width="1536" height="1024" alt="ChatGPT Image 25 Ağu 2025 20_36_37" src="https://github.com/user-attachments/assets/02e1b33f-bf7c-471c-a25c-5930bc71b6c2" />
 
@@ -37,7 +37,7 @@ Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştiril
 
 ## 📷 Ekran Görüntüleri  
 
-### 🏘 Ana Sayfa  
+### 🏠 Ana Sayfa  
 <img width="1886" height="915" alt="Ekran görüntüsü 2025-08-25 170142" src="https://github.com/user-attachments/assets/748e0db0-0936-4a98-8850-a9497dd8ac96" />
 <img width="1890" height="918" alt="Ekran görüntüsü 2025-08-25 170239" src="https://github.com/user-attachments/assets/5ebf20d1-6b0f-44e3-8f20-7e192e0da2b4" />
 <img width="1886" height="923" alt="Ekran görüntüsü 2025-08-25 170351" src="https://github.com/user-attachments/assets/22c3257c-a227-420f-801c-bdc887e9f158" />
@@ -52,7 +52,7 @@ Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştiril
 <img width="1886" height="920" alt="Ekran görüntüsü 2025-08-25 171807" src="https://github.com/user-attachments/assets/04a69098-4f33-439f-bac5-af0b6a47b279" />
 <img width="1892" height="916" alt="Ekran görüntüsü 2025-08-25 171832" src="https://github.com/user-attachments/assets/9f34d1d9-0454-46a7-ab6d-10eb5fff7e73" />
 
-### 📑 Villa Detay Sayfası  
+### 🧑‍💻 Admin Detay Sayfası  
 <img width="1892" height="920" alt="Ekran görüntüsü 2025-08-25 172010" src="https://github.com/user-attachments/assets/19983e00-245d-4497-87de-d3e440bb2f1e" />
 <img width="1888" height="917" alt="Ekran görüntüsü 2025-08-25 172112" src="https://github.com/user-attachments/assets/b6130605-f302-49fa-900e-0e7d5722d832" />
 <img width="1888" height="921" alt="Ekran görüntüsü 2025-08-25 172125" src="https://github.com/user-attachments/assets/c445ed83-607a-4bca-bcf6-6d452ff10783" />
