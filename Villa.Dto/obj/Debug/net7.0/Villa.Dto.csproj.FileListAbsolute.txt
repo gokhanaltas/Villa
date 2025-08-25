@@ -1,0 +1,12 @@
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\bin\Debug\net7.0\Villa.Dto.deps.json
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\bin\Debug\net7.0\Villa.Dto.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\bin\Debug\net7.0\Villa.Dto.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.AssemblyInfo.cs
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\refint\Villa.Dto.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\ref\Villa.Dto.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Dto\obj\Debug\net7.0\Villa.Dto.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\bin\Debug\net7.0\Villa.DataAccess.deps.json
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\bin\Debug\net7.0\Villa.DataAccess.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\bin\Debug\net7.0\Villa.DataAccess.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\bin\Debug\net7.0\Villa.Entity.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\bin\Debug\net7.0\Villa.Entity.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.AssemblyInfo.cs
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.Da.FE93B2A2.Up2Date
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\refint\Villa.DataAccess.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\Villa.DataAccess.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.DataAccess\obj\Debug\net7.0\ref\Villa.DataAccess.dll

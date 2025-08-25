@@ -1,0 +1,12 @@
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\bin\Debug\net7.0\Villa.Entity.deps.json
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\bin\Debug\net7.0\Villa.Entity.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\bin\Debug\net7.0\Villa.Entity.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.csproj.AssemblyReference.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.AssemblyInfo.cs
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\refint\Villa.Entity.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\Villa.Entity.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Entity\obj\Debug\net7.0\ref\Villa.Entity.dll

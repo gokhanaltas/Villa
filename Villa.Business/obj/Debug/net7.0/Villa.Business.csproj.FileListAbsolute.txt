@@ -1,0 +1,17 @@
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.Business.deps.json
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.Business.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.Business.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.AssemblyInfoInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.AssemblyInfo.cs
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.csproj.CoreCompileInputs.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\refint\Villa.Business.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\ref\Villa.Business.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.DataAccess.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.Entity.dll
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.DataAccess.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\bin\Debug\net7.0\Villa.Entity.pdb
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Business.csproj.AssemblyReference.cache
+C:\Users\GÖKHAN\source\repos\Villa\Villa.Business\obj\Debug\net7.0\Villa.Bu.65869923.Up2Date
