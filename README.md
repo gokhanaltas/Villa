@@ -1,6 +1,6 @@
-# 🏡Premium - Villa Satış Projesi  
+## ✨🏡 Premium Villas | Luxury Real Estate Project 
 
- <img width="1536" height="1024" alt="ChatGPT Image 25 Ağu 2025 20_36_37" src="https://github.com/user-attachments/assets/02e1b33f-bf7c-471c-a25c-5930bc71b6c2" />
+<img width="1536" height="1024" alt="ChatGPT Image 25 Ağu 2025 21_16_16" src="https://github.com/user-attachments/assets/2fcd6c7f-787e-46f5-a84a-5d892bbb4b26" />
 
 
 ## 📌 Proje Hakkında  
