@@ -4,7 +4,7 @@
 
 
 ## 📌 Proje Hakkında  
-Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştirilmiş, villa satışlarını yöneten modern bir **Real Estate Web Uygulaması**dır.  
+Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştirilmiş, villa satışlarını yöneten modern bir **Real Estate Villa Web Uygulaması**dır.  
 
 🔹 Kullanıcılar satılık villaları listeleyebilir ve detaylarına ulaşabilir.  
 🔹 Admin panelinden ilan yönetimi yapılabilir.  
@@ -16,12 +16,11 @@ Bu proje, **ASP.NET Core**, **EF Core** ve **MongoDB** kullanılarak geliştiril
 
 | Teknoloji | Açıklama |
 |-----------|----------|
-| ⚡ ASP.NET Core | Backend & API |
-| 🗄 Entity Framework Core | SQL veri yönetimi |
+| ⚡ ASP.NET MVC Core | Backend & Frontend |
+| 🗄 Entity Framework Core | MongoDb veri yönetimi |
 | 🍃 MongoDB | NoSQL log sistemi |
-| 🎨 Bootstrap / Tailwind | Arayüz tasarımı |
+| 🎨 Bootstrap 5 / Tailwind | Arayüz tasarımı |
 | 🔐 Identity | Kimlik doğrulama |
-| ☁️ RESTful API | Servis entegrasyonu |
 
 ---
 
